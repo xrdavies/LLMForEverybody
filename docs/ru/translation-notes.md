@@ -37,6 +37,7 @@
 - Названия алгоритмов `SGD`, `Momentum`, `ASGD`, `AdaGrad`, `AdaDelta`, `RMSProp`, `Adam`, `Nadam`, `AdamW`, `RAdam`, `Rprop` сохраняются в английской форме; `AdaDeleta` в имени исходного файла считается опечаткой и переводится как `AdaDelta`.
 - `learning rate` сохраняется как `learning rate`, если в исходном тексте термин уже дан по-английски; в пояснениях допустимо `скорость обучения`.
 - `momentum` в названии алгоритма сохраняется как `Momentum`; как механизм переводится по контексту через `импульс`, `инерция` или `член momentum`.
+- В Adam-подобных оптимизаторах `moment estimate` передается как `оценка момента`, `weight decay` сохраняется как `weight decay`, а в RAdam `variance of adaptive learning rate` передается как `дисперсия адаптивного learning rate`.
 
 ## Ссылки на оригиналы
 
