@@ -40,6 +40,8 @@
 - В Adam-подобных оптимизаторах `moment estimate` передается как `оценка момента`, `weight decay` сохраняется как `weight decay`, а в RAdam `variance of adaptive learning rate` передается как `дисперсия адаптивного learning rate`.
 - `训练框架` переводится как `фреймворк обучения`; названия `FSDP`, `DeepSpeed`, `Megatron-LM`, `Accelerate`, `PyTorch`, `Hugging Face` сохраняются без перевода.
 - `Data Parallelism`, `Tensor Parallelism`, `Pipeline Parallelism`, `Model Parallelism`, `ZeRO`, `offload`, `checkpoint` и `mixed precision training` могут сохраняться в английской форме, если так яснее рядом с названием технологии.
+- `位置编码` переводится как `позиционное кодирование`, `旋转位置编码` - как `вращательное позиционное кодирование`; `RoPE`, `FlashAttention`, `Self-Attention`, `Online Softmax`, `Safe Softmax` и `softmax` сохраняются в английской форме.
+- `复变函数` передается как `комплексная функция` или `функция комплексной переменной` по математическому контексту.
 
 ## Ссылки на оригиналы
 
