@@ -38,6 +38,8 @@
 - `learning rate` сохраняется как `learning rate`, если в исходном тексте термин уже дан по-английски; в пояснениях допустимо `скорость обучения`.
 - `momentum` в названии алгоритма сохраняется как `Momentum`; как механизм переводится по контексту через `импульс`, `инерция` или `член momentum`.
 - В Adam-подобных оптимизаторах `moment estimate` передается как `оценка момента`, `weight decay` сохраняется как `weight decay`, а в RAdam `variance of adaptive learning rate` передается как `дисперсия адаптивного learning rate`.
+- `训练框架` переводится как `фреймворк обучения`; названия `FSDP`, `DeepSpeed`, `Megatron-LM`, `Accelerate`, `PyTorch`, `Hugging Face` сохраняются без перевода.
+- `Data Parallelism`, `Tensor Parallelism`, `Pipeline Parallelism`, `Model Parallelism`, `ZeRO`, `offload`, `checkpoint` и `mixed precision training` могут сохраняться в английской форме, если так яснее рядом с названием технологии.
 
 ## Ссылки на оригиналы
 
