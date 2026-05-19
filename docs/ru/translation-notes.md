@@ -63,6 +63,11 @@
 - `Hugging Face PEFT`, `LLaMA-Factory`, `ModelScope`, `ms-swift`, `Megatron-LM`, `Transformers`, `Diffusers`, `Accelerate`, `Trainer`, `Full Fine-tuning`, `freeze fine-tuning`, `LoRA fine-tuning`, `QLoRA fine-tuning`, `PPO`, `DPO`, `KTO`, `ORPO`, `GaLore`, `DoRA`, `LongLoRA`, `LoftQ` и `LlamaBoard` сохраняются в английской форме.
 - `Full Fine-tuning` при объяснении передается как `обновление всех параметров`; `storage costs` - как `расходы на хранение`.
 
+## Раздел 04: Квантизация
+
+- `квантизация` используется как основной перевод для `量化`; `PTQ`, `QAT`, `INT8`, `AWQ`, `GPTQ`, `SmoothQuant`, `KV Cache`, `GGUF`, `GGML`, `llama.cpp`, `Ollama`, `vLLM`, `SGLang`, `BitsAndBytes`, `Inflight quantization`, `Dynamic Quantization`, `Hessian` и `OBS` сохраняются в английской форме.
+- `Quantization Granularity` передается как `гранулярность квантизации`, `zero-point` сохраняется в английской форме, `Hadamard product` при необходимости передается как `произведение Адамара`.
+
 ## Ссылки на оригиналы
 
 - Имена файлов и каталогов русского зеркала локализованы в нижнем регистре через дефисы.
