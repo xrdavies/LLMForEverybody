@@ -84,6 +84,8 @@
 - `叙述性私人数据` передается как `нарративные приватные данные`; `知识图谱` - как `Knowledge Graph` или `граф знаний` в пояснениях.
 - `LLM application`, `Text-to-SQL`, `Text-to-Code`, `NL2SQL`, `Schema-Linking`, `LangChain`, `LangGraph`, `Coze`, `workflow`, `DAG`, `Multi-Agent`, `Self-Reflection`, `MLflow`, `Temperature`, `Top P`, `CT`, `SFT` и `foundation model` сохраняются в английской форме по контексту.
 - `应用落地` передается как `внедрение LLM-приложений`; `任务拆解` - как `декомпозиция задачи`; `意图识别` - как `распознавание намерения`.
+- `Agentic systems`, `Reflection`, `Tool use`, `Planning`, `Memory`, `Short-term memory`, `Long-term memory`, `ReAct`, `AutoGen`, `Guardrails`, `orchestration`, `Model Context Protocol`, `MCP`, `Host`, `Client`, `Server`, `Resources`, `Tools`, `Prompts`, `stdio`, `SSE`, `Cherry Studio` и `Dify` сохраняются в английской форме по контексту.
+- `模型上下文协议` передается как `Model Context Protocol` или `протокол контекста модели`; `工作流` в Agent-архитектурах сохраняется как `workflow`, если рядом обсуждаются фреймворки и orchestration.
 
 ## Ссылки на оригиналы
 
