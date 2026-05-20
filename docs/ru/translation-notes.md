@@ -109,6 +109,7 @@
 
 - `高数` передается как `высшая математика`; `微积分` - как `calculus` или `математический анализ` по контексту.
 - `calculus`, `differentiation`, `derivative`, `partial derivative`, `gradient`, `gradient descent`, `backpropagation`, `slope`, `second derivative`, `Hessian matrix`, `learning rate`, `objective function`, `loss function`, `iteration`, `threshold`, `PyTorch` и `TensorFlow` сохраняются в английской форме по контексту.
+- `线性代数` передается как `линейная алгебра`; `matrix`, `singularity`, `singular`, `non-singular`, `determinant`, `augmented matrix`, `row reduction`, `row echelon form`, `reduced row echelon form`, `rank`, `pivot`, `Gauss elimination`, `back substitution`, `vector`, `L1-norm`, `L2-norm`, `Manhattan distance`, `Euclidean distance`, `cosine similarity`, `dot product`, `Hadamard product`, `linear transformation`, `identity matrix`, `inverse`, `basis`, `span`, `eigenbasis`, `eigenvalue`, `eigenvector` и `characteristic polynomial` сохраняются в английской форме по контексту.
 
 ## Ссылки на оригиналы
 
