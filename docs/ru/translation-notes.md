@@ -105,6 +105,11 @@
 - `Exploit and Explore`, `reinforcement learning`, `chain of thought`, `Multi-armed bandit`, `MAB`, `epsilon-greedy`, `UCB`, `Thompson Sampling`, `Hoeffding's inequality`, `Beta distribution`, `Bayesian inference`, `Monte Carlo sampling`, `DeepFake`, `Deepfake`, `Diffusion Model`, `GANs`, `AIGC`, `Forward Diffusion`, `Reverse Diffusion`, `embedding` и `facial features` сохраняются в английской форме по контексту.
 - `N 号房` передается как `Nth Room`; в чувствительных темах DeepFake формулировки сохраняются нейтральными и техническими, без усиления деталей.
 
+## Раздел 11: Математика
+
+- `高数` передается как `высшая математика`; `微积分` - как `calculus` или `математический анализ` по контексту.
+- `calculus`, `differentiation`, `derivative`, `partial derivative`, `gradient`, `gradient descent`, `backpropagation`, `slope`, `second derivative`, `Hessian matrix`, `learning rate`, `objective function`, `loss function`, `iteration`, `threshold`, `PyTorch` и `TensorFlow` сохраняются в английской форме по контексту.
+
 ## Ссылки на оригиналы
 
 - Имена файлов и каталогов русского зеркала локализованы в нижнем регистре через дефисы.
