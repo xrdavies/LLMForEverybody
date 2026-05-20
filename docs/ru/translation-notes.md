@@ -82,6 +82,8 @@
 
 - `RAG`, `GraphRAG`, `Baseline RAG`, `Vector DB`, `embedding`, `retrieval`, `query`, `LVLM`, `LLaVA`, `BridgeTower`, `semantic search`, `Long Context`, `Knowledge Graph`, `chunk`, `Load & Process`, `Split/Chunking`, `hybrid search`, `JSON`, `JSONL`, `OCR`, `DLD`, `ViT`, `DONUT`, `private dataset`, `prompt augmentation` и `graph machine learning` сохраняются в английской форме по контексту.
 - `叙述性私人数据` передается как `нарративные приватные данные`; `知识图谱` - как `Knowledge Graph` или `граф знаний` в пояснениях.
+- `LLM application`, `Text-to-SQL`, `Text-to-Code`, `NL2SQL`, `Schema-Linking`, `LangChain`, `LangGraph`, `Coze`, `workflow`, `DAG`, `Multi-Agent`, `Self-Reflection`, `MLflow`, `Temperature`, `Top P`, `CT`, `SFT` и `foundation model` сохраняются в английской форме по контексту.
+- `应用落地` передается как `внедрение LLM-приложений`; `任务拆解` - как `декомпозиция задачи`; `意图识别` - как `распознавание намерения`.
 
 ## Ссылки на оригиналы
 
