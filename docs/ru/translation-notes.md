@@ -87,6 +87,13 @@
 - `Agentic systems`, `Reflection`, `Tool use`, `Planning`, `Memory`, `Short-term memory`, `Long-term memory`, `ReAct`, `AutoGen`, `Guardrails`, `orchestration`, `Model Context Protocol`, `MCP`, `Host`, `Client`, `Server`, `Resources`, `Tools`, `Prompts`, `stdio`, `SSE`, `Cherry Studio` и `Dify` сохраняются в английской форме по контексту.
 - `模型上下文协议` передается как `Model Context Protocol` или `протокол контекста модели`; `工作流` в Agent-архитектурах сохраняется как `workflow`, если рядом обсуждаются фреймворки и orchestration.
 
+## Раздел 08: Внедрение LLM в бизнесе
+
+- `企业落地` передается как `enterprise-внедрение` или `внедрение в бизнесе` по контексту; `应用至上` - как `приложения прежде всего`.
+- `CRUD`, `ETL`, `NL2SQL`, `ChatBI`, `BI`, `AIGC`, `DataWind`, `Feishu`, `Prompt Engineering`, `Self-reflection`, `Few-shot learning`, `Instruction Fine-tuning`, `JSON Schema`, `structured outputs`, `function calling`, `workflow`, `corner case`, `edge case`, `hard code validation`, `top-k`, `top-p`, `Greedy`, `Sampling`, `Probabilistic` и `Deterministic` сохраняются в английской форме по контексту.
+- `复读机问题` передается как `проблема повторов` или образно `проблема "LLM-попугая"`; `智能涌现失败` - как `неудачная эмерджентность интеллекта`.
+- `红队测试` передается как `red teaming`; `提示词注入` - как `prompt injection`; `越狱` - как `jailbreaking`.
+
 ## Ссылки на оригиналы
 
 - Имена файлов и каталогов русского зеркала локализованы в нижнем регистре через дефисы.
