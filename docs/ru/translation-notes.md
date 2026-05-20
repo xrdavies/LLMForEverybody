@@ -112,6 +112,11 @@
 - `线性代数` передается как `линейная алгебра`; `matrix`, `singularity`, `singular`, `non-singular`, `determinant`, `augmented matrix`, `row reduction`, `row echelon form`, `reduced row echelon form`, `rank`, `pivot`, `Gauss elimination`, `back substitution`, `vector`, `L1-norm`, `L2-norm`, `Manhattan distance`, `Euclidean distance`, `cosine similarity`, `dot product`, `Hadamard product`, `linear transformation`, `identity matrix`, `inverse`, `basis`, `span`, `eigenbasis`, `eigenvalue`, `eigenvector` и `characteristic polynomial` сохраняются в английской форме по контексту.
 - `概率统计` передается как `probability and statistics` или `вероятность и статистика` по контексту; `Probability`, `Statistics`, `Bayes' Theorem`, `Prior Probability`, `Posterior Probability`, `Naive Bayes`, `Binomial Distribution`, `Bernoulli Distribution`, `Probability Density Function`, `PDF`, `Cumulative Distribution Function`, `CDF`, `Uniform Distribution`, `Normal Distribution`, `Gaussian Distribution`, `Expected Value`, `Variance`, `Standard Deviation`, `Skewness`, `Kurtosis`, `Quantile`, `Boxplot`, `Kernel Density Estimation`, `KDE`, `Violin Plot`, `Quantile-Quantile Plot`, `QQ plot`, `Central Limit Theorem`, `CLT` и `Law of Large Numbers` сохраняются в английской форме по контексту.
 
+## Раздел 12: Бизнес и профессиональная стратегия
+
+- `平台掌控者` передается как `platform controller` или `владелец платформы` по контексту; `护城河` - как `moat`.
+- `GenAI`, `Agent`, `foundation model`, `Prompt Engineering`, `workflow`, `UI`, `unbundle`, `rebundling`, `Vertical Advantage`, `data flywheel`, `domain data`, `fine-tuning`, `Core Creative Activity`, `Scenario Advantage`, `Intelligence Advantage`, `Relationship Advantage`, `hub`, `value chain` и `red ocean` сохраняются в английской форме по контексту.
+
 ## Ссылки на оригиналы
 
 - Имена файлов и каталогов русского зеркала локализованы в нижнем регистре через дефисы.
