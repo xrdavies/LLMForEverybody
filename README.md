@@ -13,6 +13,10 @@
 
 <p align="center"><strong>Learning LLM is all you need.</strong></p>
 
+<p align="center">
+  中文 | <a href="README.ru.md">Русский</a>
+</p>
+
 <p align="center"><strong>👉 点击 <a href="https://learnllm.ai?ref=github">LearnLLM.AI</a> | 学习大模型，从这里开始</strong></p>
 
 ## LearnLLM.AI 核心亮点
@@ -316,11 +320,11 @@
 
 [大模型微调之Adapters（四）AdaLoRA](03-第三章-微调/大模型微调之Adapters（四）AdaLoRA.md)
 
-[大模型微调框架（一）综述](03-第三章-微调/assest/大模型微调框架（一）综述)
+[大模型微调框架（一）综述](03-第三章-微调/大模型微调框架（一）综述.md)
 
-[大模型微调框架（二）Huggingface-PEFT](03-第三章-微调/assest/大模型微调框架（二）Huggingface-PEFT)
+[大模型微调框架（二）Huggingface-PEFT](03-第三章-微调/大模型微调框架（二）Huggingface-PEFT.md)
 
-[大模型微调框架（三）Llama-Factory](03-第三章-微调/assest/大模型微调框架（三）Llama-Factory)
+[大模型微调框架（三）Llama-Factory](03-第三章-微调/大模型微调框架（三）LLama-Factory.md)
 
 ### 第四章-大模型量化
 
@@ -354,7 +358,7 @@
 
 **[⬆ 一键返回目录](#目录)**
 
-[如何设计智能体架构：参考OpenAI还是Anthropic?](07-第七章-Agent/如何设计智能体架构：参考OpenAI还是Anthropic?.md)
+[如何设计智能体架构：参考OpenAI还是Anthropic?](07-第七章-Agent/如何设计智能体架构：参考OpenAI还是Anthropic.md)
 
 [MCP：基础概念、快速应用和背后原理](07-第七章-Agent/MCP：基础概念、快速应用和背后原理.md)
 
